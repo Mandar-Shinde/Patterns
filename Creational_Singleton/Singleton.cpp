@@ -29,7 +29,7 @@ public:
 
 	std::string sayHello()
 	{
-		return  " my name is "+m_name ;
+		return  "and my name is "+m_name ;
 	}
 };
 
