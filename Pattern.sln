@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "..\..\test\test.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Creational_Singleton", "Creational_Singleton\Creational_Singleton.vcxproj", "{9B89C8BF-379F-4CE0-984F-CA7E11C54C1A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Creational_Factory", "Creational_Factory\Creational_Factory.vcxproj", "{67F38503-6125-4E7B-AD7B-0539B15FA414}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,10 @@ Global
 		{9B89C8BF-379F-4CE0-984F-CA7E11C54C1A}.Debug|Win32.Build.0 = Debug|Win32
 		{9B89C8BF-379F-4CE0-984F-CA7E11C54C1A}.Release|Win32.ActiveCfg = Release|Win32
 		{9B89C8BF-379F-4CE0-984F-CA7E11C54C1A}.Release|Win32.Build.0 = Release|Win32
+		{67F38503-6125-4E7B-AD7B-0539B15FA414}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67F38503-6125-4E7B-AD7B-0539B15FA414}.Debug|Win32.Build.0 = Debug|Win32
+		{67F38503-6125-4E7B-AD7B-0539B15FA414}.Release|Win32.ActiveCfg = Release|Win32
+		{67F38503-6125-4E7B-AD7B-0539B15FA414}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
