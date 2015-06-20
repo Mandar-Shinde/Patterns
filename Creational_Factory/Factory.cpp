@@ -78,7 +78,6 @@ public:
 	{
 		return _warehouse;
 	}
-
 private:
 	int _warehouse;
 };
