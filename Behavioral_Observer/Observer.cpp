@@ -4,6 +4,9 @@
 #include <iostream>
 #include <vector>
 
+// Observer pattern - Subject provides interface for observers to register and unregister themselves with the subject.
+// Multiple observers can subscribe for notifications.
+// Subject publishes the notifications Observer receives and do a perticular job.
 
 class Observer  // like Detective
 {
