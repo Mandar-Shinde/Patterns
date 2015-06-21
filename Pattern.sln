@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Creational_Factory", "Creat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Creational_Prototype", "Creational_Prototype\Creational_Prototype.vcxproj", "{608C0F1D-642D-4577-A153-2108581CF1A0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Behavioral_Observer", "Behavioral_Observer\Behavioral_Observer.vcxproj", "{1B64224C-6B47-4AC7-8055-4E2872B67489}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,10 @@ Global
 		{608C0F1D-642D-4577-A153-2108581CF1A0}.Debug|Win32.Build.0 = Debug|Win32
 		{608C0F1D-642D-4577-A153-2108581CF1A0}.Release|Win32.ActiveCfg = Release|Win32
 		{608C0F1D-642D-4577-A153-2108581CF1A0}.Release|Win32.Build.0 = Release|Win32
+		{1B64224C-6B47-4AC7-8055-4E2872B67489}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B64224C-6B47-4AC7-8055-4E2872B67489}.Debug|Win32.Build.0 = Debug|Win32
+		{1B64224C-6B47-4AC7-8055-4E2872B67489}.Release|Win32.ActiveCfg = Release|Win32
+		{1B64224C-6B47-4AC7-8055-4E2872B67489}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
