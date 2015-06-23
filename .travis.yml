@@ -1,3 +1,8 @@
 language: cpp
 solution: Pattern.sln
-sudo: false
+install:
+  - sudo apt-get install mono-devel mono-gmcs nunit-console
+ 
+script:
+  - xbuild Pattern.sln
+
