@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.travis.yml = .travis.yml
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Behavioral_State", "Behavioral_State\Behavioral_State.vcxproj", "{763895A4-53BA-407C-BEA3-A5C6FF580695}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -38,6 +40,10 @@ Global
 		{1B64224C-6B47-4AC7-8055-4E2872B67489}.Debug|Win32.Build.0 = Debug|Win32
 		{1B64224C-6B47-4AC7-8055-4E2872B67489}.Release|Win32.ActiveCfg = Release|Win32
 		{1B64224C-6B47-4AC7-8055-4E2872B67489}.Release|Win32.Build.0 = Release|Win32
+		{763895A4-53BA-407C-BEA3-A5C6FF580695}.Debug|Win32.ActiveCfg = Debug|Win32
+		{763895A4-53BA-407C-BEA3-A5C6FF580695}.Debug|Win32.Build.0 = Debug|Win32
+		{763895A4-53BA-407C-BEA3-A5C6FF580695}.Release|Win32.ActiveCfg = Release|Win32
+		{763895A4-53BA-407C-BEA3-A5C6FF580695}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
