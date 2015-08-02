@@ -16,11 +16,12 @@ public:
 	SavingsAccount(int acc)
 	{
 		accno = acc;
+		printf("\n SavingsAccount no [%d]", accno);
 	}
 
 	void info()
 	{
-		printf("\n acc no [%d]",accno);
+		
 	}	
 };
 
@@ -29,16 +30,15 @@ class SavingsAccountPremium : public Account, public SavingsAccount
 public:
 	SavingsAccountPremium(int acc):SavingsAccount(acc)
 	{
+		printf("\n SavingsAccountPremium no [%d]", acc);
 	}
 
 	void info()
 	{
-		printf("\n acc no 2");
+		
 	}
 };
 int main()
 {
 	SavingsAccountPremium* ob = new SavingsAccountPremium(10);
-	ob->info();
-
 }
