@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Creational_Singleton", "Creational_Singleton\Creational_Singleton.vcxproj", "{9B89C8BF-379F-4CE0-984F-CA7E11C54C1A}"
 EndProject
@@ -21,6 +21,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Behavioral_Command", "Behavioral_Command\Behavioral_Command.vcxproj", "{8FD6209F-E57A-46CC-BFB0-5C7E537550AA}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectSet1", "ProjectSet1\ProjectSet1.vcxproj", "{F16D5565-E683-4E71-BAB3-3BA3CC3669D4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Structural_Adapter", "Structural_Adapter\Structural_Adapter.vcxproj", "{0C940C24-243A-497C-AD72-0DD50FB62552}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +58,10 @@ Global
 		{F16D5565-E683-4E71-BAB3-3BA3CC3669D4}.Debug|Win32.Build.0 = Debug|Win32
 		{F16D5565-E683-4E71-BAB3-3BA3CC3669D4}.Release|Win32.ActiveCfg = Release|Win32
 		{F16D5565-E683-4E71-BAB3-3BA3CC3669D4}.Release|Win32.Build.0 = Release|Win32
+		{0C940C24-243A-497C-AD72-0DD50FB62552}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C940C24-243A-497C-AD72-0DD50FB62552}.Debug|Win32.Build.0 = Debug|Win32
+		{0C940C24-243A-497C-AD72-0DD50FB62552}.Release|Win32.ActiveCfg = Release|Win32
+		{0C940C24-243A-497C-AD72-0DD50FB62552}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
