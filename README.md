@@ -2,7 +2,7 @@ Design Patterns [![Build status](https://ci.appveyor.com/api/projects/status/18x
 ==================
 
 ### Tools
-* Visual Studio 2013 Projects
+* Visual Studio 2013
 
 ## Behavioral Patterns
 **Command Pattern**
